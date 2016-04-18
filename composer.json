@@ -1,0 +1,10 @@
+{
+    "name": "lipengyihao/pusher",
+    "description": "pusher test",
+    "keywords": ["test", "pusher"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "pusher/pusher-php-server": "^2.2"
+    }
+}
